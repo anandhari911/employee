@@ -1,0 +1,9 @@
+employee_id,age,gender,department,monthly_income,years_at_company,overtime,job_satisfaction,work_life_balance,attrition
+101,25,Male,Sales,35000,2,Yes,2,3,Yes
+102,32,Female,HR,45000,5,No,4,4,No
+103,29,Male,IT,50000,3,Yes,3,2,Yes
+104,40,Female,Finance,70000,10,No,5,5,No
+105,27,Male,IT,42000,2,Yes,2,2,Yes
+106,38,Female,Sales,65000,8,No,4,5,No
+107,31,Male,HR,48000,4,No,3,4,No
+108,26,Female,IT,39000,1,Yes,2,2,Yes
